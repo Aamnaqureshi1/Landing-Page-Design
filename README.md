@@ -1,2 +1,11 @@
-# Landing-Page-Design
-creating a clean and modern landing page for a fictional fitness tracking mobile app. This will include all the requested sections with a contemporary design using the available components and styling system.
+
+  # Landing Page Design
+
+  This is a code bundle for Landing Page Design. The original project is available at https://www.figma.com/design/Y9Om507sAGO5zYWcw72v3O/Landing-Page-Design.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
